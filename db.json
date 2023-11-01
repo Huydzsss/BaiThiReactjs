@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "Product": "CÔNG TY TNHH SHIBA VINdA",
+      "Name": "muoi",
+      "PhoneNumber": "0989962789",
+      "Email": "hanoiza@gmail.com",
+      "id": 2
+    },
+    {
+      "Product": "CÔNG TY TNHH SHIBAl VINdA",
+      "Name": "muoi",
+      "PhoneNumber": "0989962789",
+      "Email": "hanoiza@gmail.com",
+      "id": 3
+    },
+    {
+      "Product": "CÔNG TY TNHH SHIBA VINAjjj",
+      "Name": "le",
+      "PhoneNumber": "0979119581",
+      "Email": "huy@gmail.com",
+      "id": 4
+    },
+    {
+      "Product": "CÔNG TY TNHH SHIBA VINAjjj",
+      "Name": "le",
+      "PhoneNumber": "0979119581",
+      "Email": "huy@gmail.com",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
